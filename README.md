@@ -1,15 +1,19 @@
-# truco
+# Truco Game
 
-To install dependencies:
 
-```bash
-bun install
-```
+## Todo Core
+- [X] Criar baralho.
+- [ ] Criar embaralhamento do baralho.
+- [ ] Criar regra do truco.
 
-To run:
+## Todo Backend
+- [ ] Criar cadastro de usuário.
+- [ ] Criar server de websocket.
+- [ ] Criar salas do jogo com 2, 4 ou 6 players.
+- [ ] Criar Pontuações.
 
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## Todo Frontend
+- [ ] Criar página inicial
+- [ ] Criar página de login/cadastro
+- [ ] Criar página de salas
+- [ ] Criar página do jogo.
