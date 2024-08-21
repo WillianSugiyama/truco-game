@@ -3,17 +3,8 @@
 
 ## Todo Core
 - [X] Criar baralho.
-- [ ] Criar embaralhamento do baralho.
-- [ ] Criar regra do truco.
-
-## Todo Backend
-- [ ] Criar cadastro de usuário.
-- [ ] Criar server de websocket.
-- [ ] Criar salas do jogo com 2, 4 ou 6 players.
-- [ ] Criar Pontuações.
-
-## Todo Frontend
-- [ ] Criar página inicial
-- [ ] Criar página de login/cadastro
-- [ ] Criar página de salas
-- [ ] Criar página do jogo.
+- [X] Criar embaralhamento do baralho.
+- [X] Criar regra do truco.
+- [ ] Criar Regra de virar carta.
+- [ ] Criar Regra de 12 Rodadas.
+- [ ] Criar regra de truco, seis, nove e doze pontos na rodada.
