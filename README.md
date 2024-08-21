@@ -8,3 +8,4 @@
 - [ ] Criar Regra de virar carta.
 - [ ] Criar Regra de 12 Rodadas.
 - [ ] Criar regra de truco, seis, nove e doze pontos na rodada.
+- [ ] Criar AI para jogar o truco como player 1.
